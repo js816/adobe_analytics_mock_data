@@ -1,9 +1,65 @@
 # adobe_analytics_mock_data
 Mock digital analytics data from Adobe Analytics 
 
-Some practice tables, visualizations, and analyses in Adobe Analytics using mock data.  See also PDF files in repository.
+Some practice tables, visualizations, and analyses in Adobe Analytics using demo data.  See also PDF files in repository.
 
-Reference:  [Adobe Analytics for Dummies](https://www.amazon.com/Analytics-Dummies-Business-Personal-Finance/dp/1119446082)
+Reference for portions:  [Adobe Analytics for Dummies](https://www.amazon.com/Analytics-Dummies-Business-Personal-Finance/dp/1119446082)
+
+# Mobile Scorecard
+
+Mobile scorecards are an easy way for busy, on-the-go business leaders to effectively stay abreast of KPIs.  
+
+These interactive dashboards allow easy visualization of performance trends and place power in the hands of the user.  Instead of needing to request an ad hoc analysis from an analyst, view a static PDF, or log into Adobe Analytics which can be daunting for those without experience, the executive can easily slice and dice various KPIs by multiple dimensions and timeframes.  Segments can also be applied to the scorecard by the end user for more filtered view when desired.  
+
+Mobile scorecards, while very powerful and flexible, are easily set up by the analyst.  Once the executive logs into the mobile app, the intuitive UI allows easy access to performance trends.
+
+## Overview screen
+
+<img width="250" alt="1_overview" src="https://user-images.githubusercontent.com/82730954/160241652-0eabafd1-b67f-49f3-ac03-d698d12a453d.png">
+
+## Revenue details, default by marketing channel
+
+<img width="250" alt="2_revenue_overview" src="https://user-images.githubusercontent.com/82730954/160241703-e636653d-6806-485f-bdab-1ac96dbed6e0.png">
+
+## Changing revenue dimension
+
+<img width="254" alt="3_dim_selection" src="https://user-images.githubusercontent.com/82730954/160241730-05572e63-0092-4d33-beb0-47448191d926.png">
+
+## Revenue by mobile device type (note:  other = desktop/laptop)
+
+<img width="258" alt="4_revenue_by_mobile_device_type" src="https://user-images.githubusercontent.com/82730954/160241781-09dbc6ca-292d-4daf-b2cd-81f3540e66bd.png">
+
+## Changing date granularity
+
+<img width="253" alt="6_selecting_date_granularity" src="https://user-images.githubusercontent.com/82730954/160241796-35ba7a29-98b6-40c7-aa7d-1ecba9fe1246.png">
+
+## Week over week overview
+
+<img width="259" alt="7_overview_wow" src="https://user-images.githubusercontent.com/82730954/160241827-407e764d-48cc-4925-82db-4986098e018b.png">
+
+## Revenue week over week, by marketing channel
+
+<img width="250" alt="8_revenue_wow_overview" src="https://user-images.githubusercontent.com/82730954/160241852-d3e58474-1fdd-474c-9e7c-aef73d0607e1.png">
+
+## Revenue week over week, by day descending
+
+<img width="253" alt="9_revenue_wow_topdays" src="https://user-images.githubusercontent.com/82730954/160241874-d3971db8-c29f-4d70-83c8-17cc9be9c3ae.png">
+
+## Applying segment for more filtered analysis
+
+<img width="245" alt="10_applying_segment" src="https://user-images.githubusercontent.com/82730954/160241889-c7edb68a-262c-4106-afaf-2f8599d67071.png">
+
+## Overview for mobile visitors
+
+<img width="245" alt="11_mobile_devices_segment" src="https://user-images.githubusercontent.com/82730954/160241909-dbc8b679-4a10-4562-b88b-e15cf9a9f02c.png">
+
+## Video walkthrough
+
+https://user-images.githubusercontent.com/82730954/160241582-c9d3b1ef-97f2-4468-bbc8-d832bf3b5e20.mp4
+
+<hr>
+
+# Various workspace analyses
 
 ## Fallout cart conversion last 90 days
 
